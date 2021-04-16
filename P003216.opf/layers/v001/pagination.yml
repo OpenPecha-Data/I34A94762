@@ -3,86 +3,74 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   673973305a5c4b3ab7cf7eef05785c94:
-    page_index: 1a
-    page_info: null
-    reference: I8LS157810001
+    imgnum: 1
+    reference: I8LS157810001.tif
     span:
       start: 0
       end: 557
   60f1725574524545aa658d9eb08e86be:
-    page_index: 2a
-    page_info: null
-    reference: I8LS157810003
+    imgnum: 3
+    reference: I8LS157810003.jpg
     span:
       start: 562
       end: 648
   370342426ec444fcab5acee7c3bb0069:
-    page_index: 2b
-    page_info: null
-    reference: I8LS157810004
+    imgnum: 4
+    reference: I8LS157810004.jpg
     span:
       start: 653
       end: 718
   5605c6476f5a45878027ed85fcb20dc1:
-    page_index: 3b
-    page_info: null
-    reference: I8LS157810006
+    imgnum: 6
+    reference: I8LS157810006.jpg
     span:
       start: 723
       end: 878
   8b4977a89586404f9d23296842257a8a:
-    page_index: 4a
-    page_info: null
-    reference: I8LS157810007
+    imgnum: 7
+    reference: I8LS157810007.jpg
     span:
       start: 883
       end: 1110
   0e38044f8013463b9a4ae9687aaa5c45:
-    page_index: 4b
-    page_info: null
-    reference: I8LS157810008
+    imgnum: 8
+    reference: I8LS157810008.jpg
     span:
       start: 1115
       end: 1477
   82da0a6b77a340359826c2d583c33c2a:
-    page_index: 5a
-    page_info: null
-    reference: I8LS157810009
+    imgnum: 9
+    reference: I8LS157810009.jpg
     span:
       start: 1482
       end: 1817
   554a7c1ddf97443ab8a22dfad9d199b1:
-    page_index: 5b
-    page_info: null
-    reference: I8LS157810010
+    imgnum: 10
+    reference: I8LS157810010.jpg
     span:
       start: 1822
       end: 2119
   260675f0bbbb4304b90211ce178a61df:
-    page_index: 6a
-    page_info: null
-    reference: I8LS157810011
+    imgnum: 11
+    reference: I8LS157810011.jpg
     span:
       start: 2124
       end: 2407
   32f7811e3ab743d494d23f67bfdf45c7:
-    page_index: 6b
-    page_info: null
-    reference: I8LS157810012
+    imgnum: 12
+    reference: I8LS157810012.jpg
     span:
       start: 2412
       end: 2638
   bfc72e9ab52e44418afba76b08a03cc4:
-    page_index: 7a
-    page_info: null
-    reference: I8LS157810013
+    imgnum: 13
+    reference: I8LS157810013.jpg
     span:
       start: 2643
       end: 2889
   948481902725469db06a9a8df4755246:
-    page_index: 7b
-    page_info: null
-    reference: I8LS157810014
+    imgnum: 14
+    reference: I8LS157810014.jpg
     span:
       start: 2894
       end: 3124
